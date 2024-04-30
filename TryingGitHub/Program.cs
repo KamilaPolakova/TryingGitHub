@@ -5,3 +5,6 @@ Console.WriteLine("Hello, World!");
 //změnila jsem toho stejně jako kolik dělám věcí na ročníkovku
 
 int a = 0;
+
+//Drahá Kamilo, touch some fucking grass
+//      - Matěj
